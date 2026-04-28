@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " E ",
+        "EBE",
+        " E "
+    ],
+    "key": {
+        "E": { "item": "minecraft:ender_eye" },
+        "B": { "item": "minecraft:blaze_rod" }
+    },
+    "result": {
+        "id": "petalrites:ritual_focus",
+        "count": 4
+    }
+}

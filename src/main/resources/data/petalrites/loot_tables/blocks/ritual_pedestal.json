@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "petalrites:ritual_pedestal",
+                    "conditions": [
+                        { "condition": "minecraft:survives_explosion" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
